@@ -30,7 +30,7 @@ U 1 1 5FA61C5A
 P 1650 2850
 F 0 "BT1" H 1768 2946 50  0000 L CNN
 F 1 "Battery_Cell" H 1768 2855 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" V 1650 2910 50  0001 C CNN
+F 2 "circuit:battery" V 1650 2910 50  0001 C CNN
 F 3 "~" V 1650 2910 50  0001 C CNN
 	1    1650 2850
 	1    0    0    -1  
