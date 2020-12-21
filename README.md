@@ -1,5 +1,5 @@
 
-# Christmas tree with LEDs ans Attiny4-5-9-10
+# Christmas tree with LEDs and Attiny4-5-9-10
 
 ## Getting Started
 
