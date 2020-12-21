@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-This is a christmas tree ornament that use an Attiny and 3 LEDs. The power is supplied by an CR2032 battery.
+This is a christmas tree ornament that uses an Attiny and 3 LEDs. The power is supplied by a CR2032 battery.
 
 
 
@@ -12,7 +12,7 @@ This is a christmas tree ornament that use an Attiny and 3 LEDs. The power is su
 
 * Arduino IDE version 1.8.3 (The attine10 core is not working on higher versions)
 * [ATtiny10Core](https://github.com/technoblogy/attiny10core)
-* USBASP programmer(Need recent firmware, will probably require an update if bought from ebay)
+* USBASP programmer(Need recent firmware, will probably require an update if bought from eBay)
 
 
 See [here](http://www.technoblogy.com/show?1YQY) to learn how to install the required software and program the MCU.
