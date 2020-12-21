@@ -23,7 +23,7 @@ See [here](http://www.technoblogy.com/show?1YQY) to learn how to install the req
 The PCB does not include a programming port. It is possible to use an external programmer with a socket, or use one of the PCB as the programmer. 
 To do it:
 
- 1. Solder wires to one PCB as seen in the images folder
+ 1. Solder wires to one PCB as seen in the images folder (including RESET on the backside, 5 wires in total)
  2. Plug the wires in one end of the programmer's cable
  3. Disconnect the cable from the programmer
  4. Place the IC on the PCB, at the right place and in the right direction, and hold it with one hand
