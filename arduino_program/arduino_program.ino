@@ -18,7 +18,7 @@
 
  /*
   * Program for Attiny4-5-9-10
-  * Make the lesd flash for 250ms every 4s on a kake random pattern
+  * Make the lesd flash for 250ms every 4s on a fake random pattern
   */
 
 #include <avr/io.h>
@@ -36,7 +36,7 @@ int main (void) {
   CCP = 0xD8; // Unlock clock config
   CLKMSR = 0b01;  // 128 kHz WDT oscillator as clock source
   CCP = 0xD8; // Unlock clock config
-  CLKPSR = 0b0111; // 256 clock prescaler, clock frequency = 1000 Hz -> 1 clock = 1 ms
+  CLKPSR = 0b0111; // 128 clock prescaler, clock frequency = 1000 Hz -> 1 clock = 1 ms
 
   DDRB = 1 << DDB0 | 1 << DDB1 | 1 << DDB2;                 // PB0-2 as an output
 
