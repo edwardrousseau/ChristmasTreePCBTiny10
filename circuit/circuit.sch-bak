@@ -1,14 +1,15 @@
 EESchema Schematic File Version 4
+LIBS:circuit-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "Christmas tree"
+Date "2020-12-20"
+Rev "1"
+Comp "Edward Rousseau"
+Comment1 "Licensed under GPLv3, seel LICENSE file"
 Comment2 ""
 Comment3 ""
 Comment4 ""
