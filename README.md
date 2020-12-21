@@ -39,6 +39,7 @@ To do it:
 ## BOM
 
 * PCB (Printed Circuit Boards, order from OSHPark or another supplier)
+* MCU (Attiny4-5-9-10)
 * 3 * 0805 1kOhm resistors
 * 3 * 0805 LED (different colors)
 * 2032 battery holder (with distance between pins of 20mm)
