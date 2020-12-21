@@ -18,7 +18,7 @@
 
  /*
   * Program for Attiny4-5-9-10
-  * Make the lesd flash for 250ms every 4s on a fake random pattern
+  * Make the leds flash for 250ms every 4s on a fake random pattern
   */
 
 #include <avr/io.h>
