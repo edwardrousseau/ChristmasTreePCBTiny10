@@ -44,7 +44,7 @@ To do it:
 * 2032 battery holder (with distance between pins of 20mm)
 
 ## Possible improvements
-* Real random LEDs pattern
+* Real pseudo-random LEDs pattern
 * Add a small programming port
 * Use a smaller battery so it is smaller than the board
 
