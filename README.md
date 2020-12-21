@@ -1,5 +1,5 @@
 
-# Christmas tree with LEDs ans Attiny4-5-9-10
+# Christmas tree with LEDs and Attiny4-5-9-10
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ See [here](http://www.technoblogy.com/show?1YQY) to learn how to install the req
 The PCB does not include a programming port. It is possible to use an external programmer with a socket, or use one of the PCB as the programmer. 
 To do it:
 
- 1. Solder wires to one PCB as seen in the images folder
+ 1. Solder wires to one PCB as seen in the images folder (including RESET on the backside, 5 wires in total)
  2. Plug the wires in one end of the programmer's cable
  3. Disconnect the cable from the programmer
  4. Place the IC on the PCB, at the right place and in the right direction, and hold it with one hand
@@ -44,6 +44,9 @@ To do it:
 * 2032 battery holder (with distance between pins of 20mm)
 
 ## Possible improvements
+* Real pseudo-random LEDs pattern
+* Add a small programming port
+* Use a smaller battery so it is smaller than the board
 
 ## Author
 
